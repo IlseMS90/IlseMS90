@@ -1,4 +1,4 @@
-- :alien: Hi, I’m @IlseMS90
+- :alien: Hi, I’m @Ilse
 - :brain: Apprentice of JS and React.
 - :eyes: I have an eye for UX/UI design and a tongue for chocolate ice cream and cheese. 
 - :woman_student: I studied front-end development in Laboratoria's bootcamp.
